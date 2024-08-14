@@ -62,7 +62,7 @@
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "The Undead",
 		"movement": 6,
-		"strength": 55,
+		"strength": 80,
 		"cost": 475,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
