@@ -9,7 +9,7 @@
         "isNationalWonder": true,
 		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
-			"All newly-trained [Military] units [in all city] receive the [Rejuvenation] promotion"],
+			"All newly-trained [Military] units receive the [Rejuvenation] promotion"],
         "requiredTech": "Horseback Riding"
     },
 	{
@@ -21,7 +21,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
 			"[-25]% Gold cost of acquiring tiles [in all cities]",
-			"All newly-trained [Military] units [in all city] receive the [Hard to Kill Twice] promotion",
+			"All newly-trained [Military] units receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
 	},
@@ -33,7 +33,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-			"All newly-trained [Military] units [in all city] receive the [Sickening Plague] promotion",
+			"All newly-trained [Military] units receive the [Sickening Plague] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Iron Working"
 	},
@@ -75,7 +75,7 @@
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"uniques": ["Doubles Gold given to enemy if city is captured",
-			"All newly-trained [Military] units [in all city] receive the [Summon the Lich King] promotion"],
+			"All newly-trained [Military] units receive the [Summon the Lich King] promotion"],
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
