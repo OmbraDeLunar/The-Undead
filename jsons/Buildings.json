@@ -9,7 +9,7 @@
         "isNationalWonder": true,
                 "uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
                         "Cost increases by [30] per owned city",
-                        "All newly-trained [Military] units [in all city] receive the [Rejuvenation] promotion"],
+                        "All newly-trained [Military] units receive the [Rejuvenation] promotion"],
         "requiredTech": "Horseback Riding"
     },
         {
@@ -33,7 +33,7 @@
                 "culture": 1,
                 "isNationalWonder": true,
                 "uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
-                        "All newly-trained [Military] units [in all city] receive the [Sickening Plague] promotion",
+                        "All newly-trained [Military] units receive the [Sickening Plague] promotion",
                         "Cost increases by [30] per owned city"],
                 "requiredTech": "Iron Working"
         },
@@ -43,10 +43,9 @@
                 "replaces": "Courthouse",
                 "happiness": 3,
                 "uniques": ["Remove extra unhappiness from annexed cities",
-                        "[-10]% Production when constructing [All] wonders [in this city]",
                         "[+15]% Production when constructing [Military] units [in this city]",
                         "[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
-                        "[+3 Culture, +1 Production, +1 Gold, +1 Food] from [Abyss] tiles [in this city]"],
+                        "[+3 Culture, +2 Production, +3 Science, +2 Food] from [Abyss] tiles [in this city]"],
                 "cost": 1
         },
         {
