@@ -50,7 +50,6 @@
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus"],
 		"promotions": ["Sickening Plague","Rejuvenation"],
