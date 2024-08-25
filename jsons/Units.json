@@ -69,7 +69,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
-   "Can carry [6] [Aircraft] units"],
+   "Can carry [6] [Aircraft] units",
 			"Ignores Zone of Control"],
 		"attackSound": "gdrAttack"
 	},
